@@ -37,7 +37,7 @@ const stats = [
   },
   {
     number: "20+",
-    title: "Years of Experience",
+    title: "Yearsof Experience",
     description: "Delivering results backed by nearly a decade of experience.",
     images: [
       "https://ivang-design.com/svg-load/slider/13.jpg",
